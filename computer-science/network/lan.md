@@ -28,7 +28,7 @@ Router의 각 interface는 각각 서로 다른 LAN을 구성.
 12. Switch는 MAC Table에 PC1의 정보가 등록되어 있으므로 PC1이 연결되어 있는 port로 메시지를 전송(Unicast).
 13. PC1은 Destination MAC address가 자신의 NIC MAC address와 동일하므로 메시지를 수신하여 IP Layer로 전달하고, IP Layer에는 Destination IP가 자신의 IP와 동일하므로 IP 패킷을 수신.
 
-TCP / IP 네트워크 통신을 이해하려면 Routing Table, ARP Table, MAC Table을 알면 됨.
+**TCP / IP 네트워크 통신을 이해하려면 Routing Table, ARP Table, MAC Table을 알면 됨.**
 
 PC 통신을 정리해보자면 :
 
