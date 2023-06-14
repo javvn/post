@@ -1,5 +1,3 @@
-# [ Network ] LAN
-
 # LAN
 
 동일한 IP 대역과 동일한 Subnet Mask를 사용하며 ARP Request Packet이 미치는 범위의 네트워크.
